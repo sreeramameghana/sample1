@@ -1,2 +1,7 @@
 sample
+<<<<<<< HEAD
 **This is secondBranch**
+=======
+**This is thirdBranch**
+boo
+>>>>>>> thirdBranch
